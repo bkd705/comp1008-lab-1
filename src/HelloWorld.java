@@ -4,7 +4,7 @@
 public class HelloWorld {
 
     public static void main(String args[]) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! My github name is bkd705!");
 
         System.out.println("Changed some shtuffsss");
     }
